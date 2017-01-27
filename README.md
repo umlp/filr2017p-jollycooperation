@@ -1,17 +1,6 @@
-# matricefilr10
-Matrice FilRouge, façonnée pour la saison 2017P
+Matrice d'un projet FilRouge
 
-Cartouche de tout fichier Markdown
----
-equipemoa: 
-nomcode: 
-groupetd: 
-guide: http://casisbelli.insa-rouen.fr/wiki/pmwiki.php?n=FilRouge.QualifierExigence
----
+Pour plus d'information sur la méthode associée :
+* http://casisbelli.insa-rouen.fr/wiki/pmwiki.php?n=FilRouge.HomePage
 
----
-equipemoa: pingouins
-nomcode: frigo
-groupetd: G2
-guide: http://casisbelli.insa-rouen.fr/wiki/pmwiki.php?n=FilRouge.QualifierExigence
----
+
